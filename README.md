@@ -1,4 +1,4 @@
-# Amazing-Paper-for-ANN-Search-under-Neural-Similarity-Metric
+# Awesome-Paper-for-ANN-Search-under-Neural-Similarity-Metric
 
 [End-to-End Neural Ad-hoc Ranking with Kernel Pooling](https://arxiv.org/pdf/1706.06613),SIGIR'17
 
